@@ -1,5 +1,5 @@
 # 💫 About Me:
-FS Soft Dev | Tulsa Native | Graphic Designer | Queer Woman in STEM<br><br>I'm currently wrapping up front-end web development and will be moving to back-end in the next couple of months.<br><br>Ask me about CSS and JavaScript Frameworks!
+Full Stack Web Development Student at Atlas School Tulsa <br><br>I'm currently wrapping up front-end web development and will be moving to back-end in the next couple of months.<br><br>Ask me about CSS and JavaScript Frameworks!
 
 
 ## 🌐 Socials:
