@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer and Web Developer in Oklahoma!<br><br>Currently working on back-end systems and micro-services!<br><br>Ask me about JavaScript Frameworks and Libraries!
+Software Engineer and Web Developer in Oklahoma, currently working on back-end systems and micro-services!<br><br>Ask me about JavaScript Frameworks and Libraries!
 
 
 ## 🌐 Socials:
