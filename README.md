@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Development Student at Atlas School Tulsa <br><br>I'm currently wrapping up front-end web development and will be moving to back-end in the next couple of months.<br><br>Ask me about CSS and JavaScript Frameworks!
+Software Engineer and Web Developer <br><br>Currently working on back-end systems and micro-services!<br><br>Ask me about JavaScript Frameworks and Libraries!
 
 
 ## 🌐 Socials:
